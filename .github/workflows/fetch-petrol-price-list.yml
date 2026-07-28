@@ -1,11 +1,9 @@
 name: Fetch HK Petrol Price from Open Data
 
 on:
-  workflow_dispatch: 
-  
   schedule:
      - cron: '0 * * * *' 
-
+     
 jobs:
   fetch-and-save:
     runs-on: ubuntu-latest
