@@ -2,7 +2,8 @@ name: Fetch HK Petrol Price from Open Data
 
 on:
   workflow_dispatch: 
-   schedule:
+  
+  schedule:
      - cron: '0 * * * *' 
 
 jobs:
