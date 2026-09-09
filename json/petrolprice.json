@@ -4,7 +4,7 @@
     "price": {
       "Sinopec": "32.67",
       "PetroChina": "32.92",
-      "Caltex": "32.92",
+      "Caltex": "33.17",
       "Esso": "33.17",
       "Shell": "32.92"
     }
@@ -14,7 +14,7 @@
     "price": {
       "Sinopec": "34.47",
       "PetroChina": "34.72",
-      "Caltex": "34.72",
+      "Caltex": "34.97",
       "Esso": "34.97",
       "Shell": "32.92"
     }
@@ -24,7 +24,7 @@
     "price": {
       "Sinopec": "36.53",
       "PetroChina": "36.83",
-      "Caltex": "36.83",
+      "Caltex": "37.03",
       "Esso": "37.03",
       "Shell": "36.83"
     }
