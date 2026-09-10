@@ -5,7 +5,7 @@
       "Sinopec": "33.17",
       "PetroChina": "32.92",
       "Caltex": "33.17",
-      "Esso": "33.17",
+      "Esso": "33.42",
       "Shell": "33.42"
     }
   },
@@ -13,9 +13,9 @@
     "type": "Premium Petrol",
     "price": {
       "Sinopec": "34.97",
-      "PetroChina": "34.72",
+      "PetroChina": "32.92",
       "Caltex": "34.97",
-      "Esso": "33.17",
+      "Esso": "35.22",
       "Shell": "35.22"
     }
   },
@@ -25,7 +25,7 @@
       "Sinopec": "37.03",
       "PetroChina": "36.83",
       "Caltex": "37.03",
-      "Esso": "37.03",
+      "Esso": "37.33",
       "Shell": "37.33"
     }
   }
