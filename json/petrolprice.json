@@ -23,8 +23,8 @@
     "type": "Diesel",
     "price": {
       "Sinopec": "38.13",
-      "PetroChina": "38.43",
-      "Caltex": "38.43",
+      "PetroChina": "38.13",
+      "Caltex": "38.13",
       "Esso": "38.13",
       "Shell": "38.43"
     }
