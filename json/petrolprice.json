@@ -2,7 +2,7 @@
   {
     "type": "Standard Petrol",
     "price": {
-      "Sinopec": "34.52",
+      "Sinopec": "34.72",
       "PetroChina": "34.72",
       "Caltex": "34.72",
       "Esso": "34.72",
@@ -12,7 +12,7 @@
   {
     "type": "Premium Petrol",
     "price": {
-      "Sinopec": "36.32",
+      "Sinopec": "36.52",
       "PetroChina": "34.72",
       "Caltex": "36.52",
       "Esso": "36.52",
@@ -22,7 +22,7 @@
   {
     "type": "Diesel",
     "price": {
-      "Sinopec": "37.63",
+      "Sinopec": "37.73",
       "PetroChina": "37.83",
       "Caltex": "37.83",
       "Esso": "37.73",
